@@ -1,3 +1,4 @@
+<p> Wyszukiwanie wyrazu w tekście</p>
 <?php 
 $wzorzec = '/być/';
 $tekst = "być albo nie być";
